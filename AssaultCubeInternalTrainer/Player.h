@@ -5,7 +5,6 @@ class Player
 {
 public:
 	uintptr_t baseAddress;
-
 	Player();
 	Player(uintptr_t a_baseAddress);
 	~Player();
